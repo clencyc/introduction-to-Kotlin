@@ -3,7 +3,5 @@ fun main(args: Array<String>) {
     print("Enter your height in metres: ")
 
 
-    var integer:Int = reader.nextInt()
-
 
 }
