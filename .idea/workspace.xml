@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a05d9b6f-98fc-4c35-b270-4bc533ca2cd7" name="Changes" comment="">
+    <list default="true" id="a05d9b6f-98fc-4c35-b270-4bc533ca2cd7" name="Changes" comment="Introduction to kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Bmi calc.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Bmi calc.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Comparisons.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Comparisons.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Datatypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Datatypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex_compare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Ex_compare.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex_compare_two.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Ex_compare_two.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/WhenStatement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/WhenStatement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dowhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dowhile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exwhenstatements.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exwhenstatements.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/forloop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/forloop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/forloopexercise.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/forloopexercise.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/whileloop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/whileloop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin Script" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -27,42 +42,52 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mzcy3NPBPiNTrm4ThvJU8wtenc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Bmi_calcKt">
-    <configuration name="Bmi_calcKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bmi_calcKt" />
+  <component name="RunManager" selected="Kotlin.Ex_functionKt">
+    <configuration name="DowhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DowhileKt" />
       <module name="kotlin_clency" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="Ex_functionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_functionKt" />
       <module name="kotlin_clency" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PageKt" />
+    <configuration name="ExwhenstatementsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExwhenstatementsKt" />
       <module name="kotlin_clency" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableKt" />
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <module name="kotlin_clency" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileloopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileloopKt" />
       <module name="kotlin_clency" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,10 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Bmi_calcKt" />
-        <item itemvalue="Kotlin.VariableKt" />
-        <item itemvalue="Kotlin.PageKt" />
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.Ex_functionKt" />
+        <item itemvalue="Kotlin.FunctionsKt" />
+        <item itemvalue="Kotlin.DowhileKt" />
+        <item itemvalue="Kotlin.WhileloopKt" />
+        <item itemvalue="Kotlin.ExwhenstatementsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -86,6 +112,22 @@
       <option name="presentableId" value="Default" />
       <updated>1678774117289</updated>
     </task>
+    <task id="LOCAL-00001" summary="Introduction to kotlin">
+      <created>1678780328143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678780328143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Introduction to kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction to kotlin" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kotlin_clency$DatatypesKt.ic" NAME="DatatypesKt Coverage Results" MODIFIED="1678858893464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

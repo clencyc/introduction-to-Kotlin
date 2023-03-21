@@ -1,6 +1,22 @@
 fun main(args: Array<String>) {
-    print("Enter your mass in kilograms: ")
-    print("Enter your height in metres: ")
+
+    println("Enter your weight:")
+    var weight:Int = readLine()!!.toInt()
+    println("Enter your height:")
+    var height:Float = readLine()!!.toFloat()
+    var bmi = weight / (height * height)
+    println(bmi)
+
+    if (bmi <= 18) {
+        println("Underweight")
+    }else if (bmi <= 29){
+        println("Normal weight")
+
+    }else if (bmi <= 34){
+        println("Overweight")
+    }else{
+        println("Obese")
+    }
 
 
 
